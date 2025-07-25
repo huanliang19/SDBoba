@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SDBoba/static/css/main.e19e346d.css",
-    "main.js": "/SDBoba/static/js/main.a74e9b15.js",
+    "main.js": "/SDBoba/static/js/main.877b73c1.js",
     "static/js/453.75b4f2e3.chunk.js": "/SDBoba/static/js/453.75b4f2e3.chunk.js",
     "static/media/Daboba_logo.png": "/SDBoba/static/media/Daboba_logo.fee7b163c5ed67bec3b3.png",
     "static/media/Matcha_Meiko_logo.jpg": "/SDBoba/static/media/Matcha_Meiko_logo.db4a3ec47b02607b633e.jpg",
     "index.html": "/SDBoba/index.html",
     "main.e19e346d.css.map": "/SDBoba/static/css/main.e19e346d.css.map",
-    "main.a74e9b15.js.map": "/SDBoba/static/js/main.a74e9b15.js.map",
+    "main.877b73c1.js.map": "/SDBoba/static/js/main.877b73c1.js.map",
     "453.75b4f2e3.chunk.js.map": "/SDBoba/static/js/453.75b4f2e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e19e346d.css",
-    "static/js/main.a74e9b15.js"
+    "static/js/main.877b73c1.js"
   ]
 }
